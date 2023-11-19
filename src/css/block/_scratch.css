@@ -1,0 +1,7 @@
+@media (min-width: 320px) {
+    .scratch{
+        display: block;
+        background: var(--white-color);
+        padding: 60px;
+    }
+}

@@ -8,6 +8,7 @@
 @import "block/_advantages.css";
 @import "block/_catalog.css";
 @import "block/_partners.css";
+@import "block/_scratch.css";
 
 * {
     margin: 0;
