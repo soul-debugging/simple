@@ -1,0 +1,10 @@
+.sm-btn {
+    display: block;
+    width: 144px;
+    height: 50px;
+    background: none;
+    border: 1px solid var(--violet-color);
+    color: var(--violet-color);
+    font-size: 18px;
+    cursor: pointer;
+}

@@ -1,0 +1,27 @@
+@import "components/_fonts.css";
+@import "components/_layouts.css";
+@import "components/_buttons.css";
+@import "components/_card.css";
+
+@import "block/_promo.css";
+@import "block/_header.css";
+@import "block/_advantages.css";
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+:root {
+    --white-color: #fff;
+    --ligth-gray-color: #EBEBEB;
+    --middle-grey: #85859B;
+    --dark-grey-color: #4C5866;
+    --violet-color: #7875FE;
+}
+
+body {
+    background: var(--ligth-gray-color);
+}
+

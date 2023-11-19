@@ -1,0 +1,23 @@
+.xl-container {
+    width: 1110px;
+    margin: 0 auto;
+    position: relative;
+}
+
+.l-container {
+    width: 690px;
+    margin: 0 auto;
+    position: relative;
+}
+
+.s-container {
+    width: 510px;
+    margin: 0 auto;
+    position: relative;
+}
+
+.xs-container {
+    width: 290px;
+    margin: 0 auto;
+    position: relative;
+}

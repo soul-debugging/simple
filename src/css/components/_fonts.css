@@ -1,0 +1,31 @@
+.font-sz-24 {
+    color: var(--dark-grey-color);
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 100%; /* 24px */
+}
+
+.font-sz-20 {
+    color: var(--violet-color);
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+.font-sz-16 {
+    color: var(--dark-grey-color);
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 150%;
+}
+
+.font-sz-16-light {
+    color: var(--middle-grey);
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 150%;
+}

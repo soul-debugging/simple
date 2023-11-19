@@ -1,0 +1,35 @@
+@media (min-width: 320px) {
+    .card {
+        display: flex;
+        width: 290px;
+        height: 116px;
+        margin-top: 20px;
+        flex-direction: row;
+        justify-content: space-between;
+        align-items: center;
+        border-top: 1px solid var(--middle-grey);
+    }
+
+    .card__description{
+        display: block;
+        width: 130px;
+    }
+
+    .card_title{
+        color: var(--dark-grey-color);
+        font-size: 16px;
+        font-style: normal;
+        font-weight: 500;
+    }
+
+    .card_description{
+        color: var(--middle-grey);
+        font-size: 16px;
+        font-style: normal;
+        font-weight: 400;
+    }
+
+    .card_img {
+        margin-right: 30px;
+    }
+}
