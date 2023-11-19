@@ -6,6 +6,8 @@
 @import "block/_promo.css";
 @import "block/_header.css";
 @import "block/_advantages.css";
+@import "block/_catalog.css";
+@import "block/_partners.css";
 
 * {
     margin: 0;

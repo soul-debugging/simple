@@ -1,0 +1,13 @@
+@media(min-width: 320px){
+    .partners{
+        width: auto;
+        overflow-x: auto;
+        white-space: nowrap;
+        margin: 60px auto;
+    }
+    .partners img {
+        width: 100%;
+        height: auto;
+        margin-right: 10px;
+    }
+}

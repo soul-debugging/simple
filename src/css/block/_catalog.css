@@ -1,0 +1,12 @@
+@media (min-width: 320px) {
+    .catalog{
+        margin-top: 60px;
+        display: block;
+        background: var(--white-color);
+        padding: 60px 15px 60px 15px;
+    }
+    .catalog_card{
+        display: block;
+        margin-top: 60px;
+    }
+}
